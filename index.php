@@ -1,1 +1,5 @@
-<?php $module='dashboard'; require __DIR__.'/app.php';
+<?php
+
+$module = 'dashboard';
+
+require __DIR__ . '/app.php';
