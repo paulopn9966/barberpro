@@ -1,0 +1,8 @@
+*.zip
+*.log
+*.sql.bak
+.env
+.env.*
+vendor/
+backups/
+tmp/
