@@ -1,1 +1,2 @@
-<?php $module='reports'; require __DIR__.'/app.php';
+<?php $module = "reports";
+require __DIR__ . "/app.php";

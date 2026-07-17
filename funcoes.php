@@ -1,1 +1,2 @@
-<?php $module='roles'; require __DIR__.'/app.php';
+<?php $module = "roles";
+require __DIR__ . "/app.php";
